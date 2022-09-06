@@ -7,14 +7,18 @@
 ![icons8-discord-24](https://user-images.githubusercontent.com/96072242/188494686-687889ea-2b42-4106-aa95-b929a0a60ed4.png)
  *discord: Valentinka#3247*
 
+##  Objective  
+I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an entry-level position with Company to use my skills in coding, troubleshooting complex problems, and assisting in the timely completion of projects. I strive to be part of a friendly and professional team where I could develop my Core.js, React.js development skills to achieve team results.
+
 ## 👩‍💻 Engineering Experience
 
-**11.2016-11.2021** [AO "Scientific and Production Company "Radar mms" (Joint Stock Company)](https://radar-mms.com/)
+***Lead Engineer***  [AO "Scientific and Production Company "Radar mms" (Joint Stock Company)](https://radar-mms.com/) *(11.2016-11.2021)*  
 * development of technical specifications for the software package for the preparation of flight tasks;
 * development and release of documentation for the software package for the preparation of flight tasks in accordance with the ESPD;
-* testing of the software package for the preparation of flight tasks.
+* testing of the software package for the preparation of flight tasks;
+* development of electrical circuits.
 
-**09.2007-11.2016** [🛰️ AO "Design Bureau "Arsenal" named after M.V. Frunze" (Joint Stock Company)](https://kbarsenal.ru/)  
+***Lead Engineer*** [🛰️ AO "Design Bureau "Arsenal" named after M.V. Frunze" (Joint Stock Company)](https://kbarsenal.ru/) *(09.2007-11.2016)*  
 * development and release of software for the spacecraft;
 * development and release at all stages of R & D of design, engineering and operational documentation for the onboard control complex and onboard software programs;
 * development of technical specifications for the onboard control complex;
@@ -27,25 +31,25 @@
 
 ## Skills
 * Hard Skills
-    - HTML;
-    - CSS;
+    - HTML5;
+    - CSS3;
     - git;
-    - Google DevTools;
+    - DevTools;
     - mySQL;
     - Figma;
-    - C/C++.
+    - basic C/C++.
  * Soft Skills
-    - inquisitiveness;
+    - curiosity;
     - google skill;
-    - to work in a team;
+    - teamwork skills;
     - learning ability;
     - sociability;
     - analytical mindset;
     - resistance to stress;
-    - attentivenessж
+    - attentiveness;
     - active life position.
 
-## Code examples
+## Code samples
 ```
 function multiply(a, b){
   return a * b;
@@ -55,9 +59,10 @@ let multiply = function(a, b){
  return a * b;
 }
 ```
+На марафоне от [htmlacademy.ru](https://htmlacademy.ru/) был сверстан [макет](https://github.com/IvValya/Marathon)
 
 ## 👩‍🎓 Education
-**08.2002-03.2008**  [🚀 Samara State Aerospace University (named after S.P. Korolev)](https://ssau.ru/)  
+**08.2002-03.2008** ***Master's degree/Specialist Degree*** [🚀 Samara State Aerospace University (named after S.P. Korolev)](https://ssau.ru/)  
 **Department:** Aircraft  
 **Direction:** Spacecraft and boosters  
 **Specialization:** Automation of designing advanced space systems.  
